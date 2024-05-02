@@ -1,0 +1,14 @@
+.wrap {
+    display: flex;
+    flex-direction: column;
+    background-color: #1d1f2a;
+}
+.container {
+    width: 100%;
+    display: flex;
+}
+.content {
+    flex: 1;
+    margin-top: 45px; 
+    margin-left: 50px; 
+}
